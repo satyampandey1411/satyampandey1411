@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Satyam Kumar Pandey 👋
 
-<!--
-**satyampandey1411/satyampandey1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal profile repository! Here you'll find an overview of my skills, current learning focus, and ways to connect with me.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Full-Stack Web & Mobile App Developer** and a **Data Science & Analytics Enthusiast** from India. Currently, I am a sophomore at Sitare University, where I am honing my skills in technology and innovation.
+
+🌍 **Based in**: India  
+🎓 **Currently studying**: BTech in Computer Science at Sitare University  
+🧠 **Currently learning**: Advanced topics in Machine Learning and Data Analytics  
+✉️ **Contact**: [satyampandeysatyam1411@gmail.com](mailto:satyampandeysatyam1411@gmail.com)  
+🤝 **Open to**: Collaborating on web and mobile development projects, as well as data analytics initiatives  
+
+## Skills
+### Web Development
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+### Mobile App Development
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
+![Dart](https://img.icons8.com/color/48/000000/dart.png)
+### Programming Languages
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
+### Frameworks
+![Flask](https://img.icons8.com/color/48/000000/flask.png)
+### Databases & Tools
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![Material UI](https://img.icons8.com/color/48/000000/material-ui.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+
+
+## Socials
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [Twitter](https://twitter.com/your-profile)  
+- [Portfolio](https://your-portfolio-link)  
+
+
+## GitHub Stats
+
+![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyampandey1411&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyampandey1411&layout=compact&hide_title=true&hide_border=true&theme=radical)  
+
+## Contributions
+
+![Satyam's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=satyampandey1411&theme=radical&hide_border=true)  
+
+---
+
+Feel free to connect or reach out if you're interested in discussing tech, collaborating on projects, or sharing ideas!
