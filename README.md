@@ -18,7 +18,7 @@ I am a **Full-Stack Web & Mobile App Developer** and a **Data Science & Analytic
 
 ## Socials
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/satyam1411pandey) 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/satyam1411pandey/) 
 
 ## GitHub Stats
 
