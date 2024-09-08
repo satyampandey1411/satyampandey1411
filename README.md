@@ -14,14 +14,21 @@ I am a **Full-Stack Web & Mobile App Developer** and a **Data Science & Analytic
 🤝 **Open to**: Collaborating on web and mobile development projects, as well as data analytics initiatives  
 
 ## Languages and Tools
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  
-![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)  
-![Dart](https://img.icons8.com/color/48/000000/dart.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)  
-![Flask](https://img.icons8.com/color/48/000000/flask.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)  
-![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Material UI](https://img.icons8.com/color/48/000000/material-ui.png) ![Git](https://img.icons8.com/color/48/000000/git.png)
 
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF" style="max-width: 300px; border-radius: 8px;">
+<div style="display: flex; align-items: center;">
+  <!-- Left column: Languages and Tools -->
+  <div style="flex: 50%;">
+    ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  
+    ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)  
+    ![Dart](https://img.icons8.com/color/48/000000/dart.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)  
+    ![Flask](https://img.icons8.com/color/48/000000/flask.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)  
+    ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Material UI](https://img.icons8.com/color/48/000000/material-ui.png) ![Git](https://img.icons8.com/color/48/000000/git.png)
+  </div>
+  
+  <!-- Right column: GIF -->
+  <div style="flex: 50%; text-align: right;">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF" style="max-width: 300px; border-radius: 8px;">
+  </div>
 </div>
 
 ## Socials
