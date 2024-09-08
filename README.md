@@ -2,7 +2,6 @@
 
 Welcome to my personal profile repository! Here you'll find an overview of my skills, current learning focus, and ways to connect with me.
 
-![Masterhead Image](https://your-image-link) <!-- Add the URL of your masthead image here -->
 
 ## About Me
 
@@ -22,7 +21,7 @@ I am a **Full-Stack Web & Mobile App Developer** and a **Data Science & Analytic
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Material UI](https://img.icons8.com/color/48/000000/material-ui.png) ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 <div align="right">
-  <img src="[https://your-gif-link](https://www.google.com/search?sca_esv=1327fe0773264510&sxsrf=ADLYWIJFEN9kOvxu5nIaFVXO_76waqbFwQ:1725759758385&q=software+engineer+Animated+coding+gif+for+GitHub&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dNFQNRLL2sQMHPlv5DqjP-WGJVS9nX7I9zDzU9npFaKBQV8GIVsd3CqRcCJYqi780x0iCaHQCSZ_TVd0f_1U02vTXd8UJc4BNC5ipYmFEIFsfOIqjIdCWJC45AXrkWZo9fYgAxXmT0J7g3Re9TzrSechCVxbwMbNgQRSRbrO2Jx4ZtsEa&udm=2&sa=X&ved=2ahUKEwjW4faKnLKIAxWwxzgGHWxUN_UQxKsJegUIjwEQAQ&ictx=0&biw=1366&bih=599&dpr=1#vhid=0kiuxvd4m9URIM&vssid=mosaic)" alt="GIF" style="max-width: 300px; border-radius: 8px;">
+  <img src="https://your-gif-link](https://www.google.com/search?sca_esv=1327fe0773264510&sxsrf=ADLYWIJFEN9kOvxu5nIaFVXO_76waqbFwQ:1725759758385&q=software+engineer+Animated+coding+gif+for+GitHub&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dNFQNRLL2sQMHPlv5DqjP-WGJVS9nX7I9zDzU9npFaKBQV8GIVsd3CqRcCJYqi780x0iCaHQCSZ_TVd0f_1U02vTXd8UJc4BNC5ipYmFEIFsfOIqjIdCWJC45AXrkWZo9fYgAxXmT0J7g3Re9TzrSechCVxbwMbNgQRSRbrO2Jx4ZtsEa&udm=2&sa=X&ved=2ahUKEwjW4faKnLKIAxWwxzgGHWxUN_UQxKsJegUIjwEQAQ&ictx=0&biw=1366&bih=599&dpr=1#vhid=0kiuxvd4m9URIM&vssid=mosaic)](https://www.google.com/search?sca_esv=1327fe0773264510&sxsrf=ADLYWIJFEN9kOvxu5nIaFVXO_76waqbFwQ:1725759758385&q=software+engineer+Animated+coding+gif+for+GitHub&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dNFQNRLL2sQMHPlv5DqjP-WGJVS9nX7I9zDzU9npFaKBQV8GIVsd3CqRcCJYqi780x0iCaHQCSZ_TVd0f_1U02vTXd8UJc4BNC5ipYmFEIFsfOIqjIdCWJC45AXrkWZo9fYgAxXmT0J7g3Re9TzrSechCVxbwMbNgQRSRbrO2Jx4ZtsEa&udm=2&sa=X&ved=2ahUKEwjW4faKnLKIAxWwxzgGHWxUN_UQxKsJegUIjwEQAQ&ictx=0&biw=1366&bih=599&dpr=1#vhid=0kiuxvd4m9URIM&vssid=mosaic)" alt="GIF" style="max-width: 300px; border-radius: 8px;">
 </div>
 
 ## Socials
