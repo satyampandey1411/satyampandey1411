@@ -1,4 +1,6 @@
-# Hi, I'm Satyam Kumar Pandey 👋
+Hi 👋 I'm Satyam Kumar Pandey  
+
+<!-- # Hi, I'm Satyam Kumar Pandey 👋
 
 Welcome to my personal profile repository! Here you'll find an overview of my skills, current learning focus, and ways to connect with me.
 
@@ -33,3 +35,4 @@ I am a **Full-Stack Web & Mobile App Developer** and a **Data Science & Analytic
 ---
 
 Feel free to connect or reach out if you're interested in discussing tech, collaborating on projects, or sharing ideas!
+-->
