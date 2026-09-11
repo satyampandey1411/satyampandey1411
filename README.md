@@ -15,6 +15,6 @@ Currently interning as a Software Engineer at Ambient Security.
 
 ### Stats
 
-![Satyam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=satyampandey1411&hide_border=true)
+![Satyam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=satyampandey1411&hide_border=true&theme=tokyonight)
 
-![Satyam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyampandey1411&layout=compact&hide_title=true&hide_border=true)
+![Satyam's Top Languages](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=satyampandey1411&layout=compact&hide_title=true&hide_border=true&theme=tokyonight)
